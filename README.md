@@ -1,3 +1,3 @@
 # SpringCloudLearning
 
-学习SpringCludEureka！
+学习SpringCloudEureka！
