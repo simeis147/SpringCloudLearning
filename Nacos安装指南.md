@@ -148,7 +148,7 @@ rm -rf nacos-server-1.4.1.tar.gz
 
 与windows中类似
 
-## 2.5.启动
+### 2.5.启动
 
 在nacos/bin目录中，输入命令启动Nacos：
 
