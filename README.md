@@ -1,3 +1,3 @@
 # SpringCloudLearning
 
-学习SpringCloudEureka！
+学习Feign-api！
