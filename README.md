@@ -1,3 +1,3 @@
 # SpringCloudLearning
 
-学习SpringCloud！
+学习SpringCloud gateway！
