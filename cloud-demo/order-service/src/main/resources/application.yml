@@ -13,7 +13,6 @@ spring:
       server-addr: localhost:8848
       discovery:
         cluster-name: HZ #集群名称
-        namespace: a0b5bbc6-550a-49d7-955d-923684f2b6e2
 userservice:
   ribbon:
     NFLoadBalancerRuleClassName: com.alibaba.cloud.nacos.ribbon.NacosRule #负载均衡规则
