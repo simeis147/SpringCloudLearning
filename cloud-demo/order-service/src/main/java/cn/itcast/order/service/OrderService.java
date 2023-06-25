@@ -15,9 +15,6 @@ public class OrderService {
     private OrderMapper orderMapper;
 
     @Autowired
-    private RestTemplate restTemplate;
-
-    @Autowired
     private UserClient userClient;
 
     public Order queryOrderById(Long orderId) {
