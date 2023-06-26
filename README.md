@@ -1,3 +1,3 @@
-# SpringCloudLearning
+# SpringAMQP
 
-学习SpringCloud！
+学习SpringAMQP！
